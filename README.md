@@ -2,7 +2,7 @@
 
 A simple REST API for managing tasks. Built with Node.js and Express.
 
-## Fetures
+## Features
 
 - Create, read, update, and delete tasks
 - Filter tasks by status (active, completed)
@@ -15,7 +15,7 @@ A simple REST API for managing tasks. Built with Node.js and Express.
 - Node.js 18+
 - npm or bun
 
-### Instalation
+### Installation
 
 ```bash
 git clone https://github.com/ayyazzafar/fork-demo-repo.git
@@ -40,7 +40,7 @@ The server will start on `http://localhost:3000`.
 | PUT | /tasks/:id | Update a task |
 | DELETE | /tasks/:id | Delete a task |
 
-## Contibuting
+## Contributing
 
 1. Fork the repository
 2. Create your feature branch
